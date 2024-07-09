@@ -1,0 +1,79 @@
+{
+  "name": "empolyee-management-system",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fullcalendar/core": "^5.11.3",
+    "@fullcalendar/daygrid": "^5.11.3",
+    "@fullcalendar/interaction": "^5.11.3",
+    "@fullcalendar/list": "^5.11.3",
+    "@fullcalendar/react": "^5.11.2",
+    "@fullcalendar/timegrid": "^5.11.3",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.15.20",
+    "@mui/x-data-grid": "^6.0.4",
+    "@nivo/bar": "^0.80.0",
+    "@nivo/core": "^0.80.0",
+    "@nivo/geo": "^0.80.0",
+    "@nivo/line": "^0.80.0",
+    "@nivo/pie": "^0.80.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^0.19.2",
+    "chart.js": "^4.2.1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.11",
+    "firebase": "^10.12.0",
+    "formik": "^2.2.9",
+    "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-pro-sidebar": "^0.7.1",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "react-trello": "^2.2.10",
+    "styled-components": "^5.3.9",
+    "uuid": "^7.0.3",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "Our Employee Management System (EMS) App revolutionizes organizational email handling with its user-friendly interface and robust functionalities. It centralizes email management by consolidating all employee emails into a single, organized platform, offering features like categorization, advanced search, and email logs for seamless access and tracking. The app enhances communication efficiency through automated responses, predefined templates, and real-time tracking of read receipts and delivery reports.",
+  "main": "index.js",
+  "keywords": [
+    "empolyee",
+    "management",
+    "system",
+    "eployee",
+    "management"
+  ],
+  "author": "CRE8IVCOVE SMC pvt ltd",
+  "license": "ISC"
+}
